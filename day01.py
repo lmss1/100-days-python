@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-DAY 1 - My Tech Journey
+DAY 1 - My Data Analytics Journey
 Author: Luis Miguel
 Date: February 11, 2026
-Goal: Get a job as QA Automation Engineer by August 2026
+Goal: Land my first Data Analytics job by July 2026
 """
 
 print("=" * 60)
