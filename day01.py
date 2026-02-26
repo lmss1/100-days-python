@@ -17,8 +17,8 @@ goal = "QA Automation Engineer"
 
 print(f"\n🎯 Hello, {name} from {city}!")
 print(f"🎯 Goal: Become a {goal}")
-print(f"📅 Deadline: August 2026")
-print(f"💪 Study days until then: ~180 days")
+print(f"📅 Deadline: July 2026")
+print(f"💪 Study days until then: ~150 days")
 
 print("\n" + "=" * 60)
 print("✅ SETUP COMPLETE!")
