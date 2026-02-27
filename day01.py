@@ -13,7 +13,7 @@ print("=" * 60)
 # Journey data
 name = input("\n📝 What's your name? ")
 city = input("📍 Where do you live? ")
-goal = "QA Automation Engineer"
+goal = "Data Analytics"
 
 print(f"\n🎯 Hello, {name} from {city}!")
 print(f"🎯 Goal: Become a {goal}")
